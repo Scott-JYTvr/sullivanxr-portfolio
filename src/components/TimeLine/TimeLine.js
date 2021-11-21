@@ -47,7 +47,7 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle main>About Me</SectionTitle>
       <SectionText>
-        Although I preordered the HTC Vive in early 2016, it took until 2019 for me to realize that the VR industry was about to grow extremely fast and I wanted to be a part of it so I quit my job and began studying web and VR development full-time. I made mistakes at every step over the last 3 years but I worked as hard as I could and I think now is the perfect time to share what I've learned. In that spirit, I'm launching a website called <A href="https://learnxrdev.com">LearnXRDev.com</A> that I hope will provide others with some of the learning resources I wish I had when I began my own vr dev journey.
+        Although I preordered the HTC Vive in early 2016, it took until 2019 for me to realize that the VR industry was about to grow extremely fast and I wanted to be a part of it so I quit my job and began studying web and VR development full-time. I made mistakes at every step over the last 3 years but I worked as hard as I could and I think now is the perfect time to share what I've learned. In that spirit, I'm launching the website <A href="https://xrdev.com">xrdev.com</A> to provide others with some of the learning resources I wish I had when I began my own journey.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

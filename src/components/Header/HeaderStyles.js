@@ -19,6 +19,7 @@ export const Container = styled.div`
 `;
 export const Span = styled.span`
   font-size: 2rem;
+  margin-left: 1rem;
 `;
 export const Div1 = styled.div`
   grid-area: 1 / 1 / 2 / 2;
